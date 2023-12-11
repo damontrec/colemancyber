@@ -3,6 +3,7 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>ELK Stack</b>
+  - [Automated ELK Stack Deployment](https://github.com/damontrec/ELK_Stack)
 - <b>SOC Infrastructure Support</b>
 - <b>Active Directory</b>
 - <b>SIEM Azure Sentinel</b>
